@@ -1,4 +1,4 @@
-print ("\033[91m")
+
 import sys
 import os
 import time
