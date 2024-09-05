@@ -5,6 +5,7 @@ pkg upgrade
 pkg install git
 pkg install python
 git clone https://github.com/jovencreativo/DdoS-Attac.git
-
-
+cd DdoS-Attac
+chmod +x Ddos.py
+./Ddos.py
 ```
